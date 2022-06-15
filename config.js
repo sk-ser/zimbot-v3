@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮SK DEVIL BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +44 7441412500
+//▮YOUTUBE CHANNELL: https://youtube.com
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,10 +37,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','918188019676']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.packname = 'ZIM BOT INC'
+global.owner = ['447441412500','972522734920']
+global.premium = ['447441412500','972522734920']
+global.botname = 'SK DEVIL BOT'
+global.packname = 'SK DEVIL BOT'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -55,7 +55,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'SK DEVIL BOT'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
